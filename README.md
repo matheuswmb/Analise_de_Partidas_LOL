@@ -1,5 +1,4 @@
-# lol_matches_analysis
+# Análise de Partidas LOL
 
-Personal project that involves Riot API, python, mongodb atlas and power bi ( still in progress )
+Projeto pessoal envolvendo a coleta dos dados através de uma API da Riot, Python, SQL e PowerBI.
 
-Getting some infos about lol matches ( classic and aram )
